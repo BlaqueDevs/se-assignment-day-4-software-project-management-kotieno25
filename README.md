@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18445693&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Significance of Prompt Delivery in Software Project Management.</br>
+**Significance of Prompt Delivery in Software Project Management.**.</br>
 •	Client Contentment – Adhering to deadlines guarantees that clients obtain the product they anticipated, preserving trust and business connections.</br>
 •	Cost Management – Setbacks can result in escalated expenses, including prolonged resource usage, increased labor costs, and potential penalties from contracts.</br>
 •	Market Edge – Prompt delivery allows a business to maintain its advantage in the marketplace, preventing the loss of opportunities.</br>
@@ -10,7 +10,7 @@ Significance of Prompt Delivery in Software Project Management.</br>
 •	Brand Reputation and Trustworthiness – Consistently adhering to timelines enhances a company’s standing as a dependable software provider.</br>
 •	Regulatory and Compliance Deadlines – Certain sectors mandate strict deadlines for legal and compliance obligations, making timely delivery crucial.</br>
 
-How Project Managers Can Ensure Timelines Are Achieved.</br>
+**How Project Managers Can Ensure Timelines Are Achieved.**.</br>
 •	Clear Project Strategy – Outline scope, objectives, and deliverables with feasible timelines.</br>
 •	Flexible Methodologies – Adopt Scrum or Kanban to ensure progressive advancements and adaptability.</br>
 •	Efficient Communication – Provide regular updates to stakeholders and team members to monitor advancement and tackle issues promptly.</br>
